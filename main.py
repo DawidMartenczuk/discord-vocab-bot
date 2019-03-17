@@ -79,4 +79,4 @@ async def on_message(message):
                 for w in nltk.word_tokenize(message.content):
                     vocab_write(w)
 
-client.run('MzgyNTY3MDQ4NjQ5MjQ0Njcy.DYlBVA.9EhvFl3-BLW8tc-QzFv0U9ZsRMc')
+client.run('')
